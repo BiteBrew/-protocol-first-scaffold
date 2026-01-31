@@ -1,0 +1,13 @@
+dist/
+backups/
+inbox/
+quarantine/
+store/
+views/
+index/*.sqlite
+index/*.sqlite-*
+index/audit.jsonl
+__pycache__/
+*.pyc
+*.log
+node_modules/
